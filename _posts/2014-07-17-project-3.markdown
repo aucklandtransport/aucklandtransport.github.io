@@ -1,0 +1,12 @@
+---
+title: Integrated fare is going to make traveling cheaper
+short: Information on the design of integrated fares
+layout: default
+modal-id: 2
+date: 2016-08-11
+img: 160811.png
+thumbnail: 160811.png
+alt: image-alt
+description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+
+---

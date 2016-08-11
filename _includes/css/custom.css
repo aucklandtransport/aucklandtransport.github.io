@@ -1,0 +1,15 @@
+.caption{
+  font-size: 12px;
+}
+
+.sub-page {
+  min-height: 400px !important;
+}
+
+.portfolio-modal .img-centered{
+	display: inline;
+}
+
+.bold{
+	font-weight: 700;
+}
